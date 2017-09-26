@@ -26,7 +26,7 @@
 from math import pi
 straal = float(input("geef een straal in : "))
 vol = (4/3)*pi*(straal**3)
-print("het volume van de bol met straal {0} is {1:.2f}".format(straal,vol))
+print("het volume van de bol met straal {0}  is {1:.2f}".format(straal,vol))
 
 # import calendar
 # maand = int(input("geef een maandnummer in :"))

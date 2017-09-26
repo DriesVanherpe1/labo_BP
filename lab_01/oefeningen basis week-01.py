@@ -7,7 +7,7 @@ basis= float(input("wat is basis?"))
 hoogte =float(input("wat is de hoogte?"))
 opp = (basis*hoogte)/2
 print("de totale oppervlakte van de driehoek is {0:.2f}".format(opp))
-# ^oefening vijf bereken de oppervlakte
+# ^oefening  vijf bereken de oppervlakte
 
 # dagen = int(input("geef het aantal dagen op:"))
 # uren = int(input("geef he aantal uren op :"))
