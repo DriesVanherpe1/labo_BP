@@ -2,7 +2,7 @@
 # print(dir(math))
 
 # from math import pi
-# getal = float(input("geef een getal in : "))
+# getal = float(input("geef een  getal in : "))
 # uitkomst = getal * pi
 # print("Na uw getal te vermenigvuldigen met PI is dit je uitkomst : {0}".format
 

@@ -16,7 +16,7 @@ print("de totale oppervlakte van de driehoek is {0:.2f}".format(opp))
 # seconden = ((dagen*24)*3600) + (uren*3600) + (minuten*60)+ seconden
 # print("het aantal seconden bedraagt : {0}".format(seconden))
 
-# seconden = int(input("geef het aantal seconden op:"))
+# seconden = int(input(" geef het aantal seconden op : "))
 # minuten,seconden = divmod(seconden,60)
 # uren, minuten= divmod(minuten,60)
 # dagen, uren = divmod(uren,24)
